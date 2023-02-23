@@ -1,4 +1,9 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: evnl.me
+author:
+  name: Evan Lee
 description: >-
-  Ceaselessly refining my senses in this lonely world.
+  Perception is everything.
+
+minima:
+  skin: solarized-dark
