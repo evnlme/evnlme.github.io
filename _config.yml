@@ -1,7 +1,9 @@
+# https://github.com/jekyll/minima
 theme: minima
 title: evnl.me
 author:
   name: Evan Lee
+  email: 112362737+evnlme@users.noreply.github.com
 description: >-
   Perception is everything.
 
