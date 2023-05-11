@@ -1,3 +1,4 @@
+# https://jekyllrb.com/
 # https://github.com/jekyll/minima
 remote_theme: jekyll/minima
 title: evnl.me
@@ -5,7 +6,13 @@ author:
   name: Evan Lee
   # email: 112362737+evnlme@users.noreply.github.com
 description: >-
-  Perception is everything.
+  Sustainable and reproducible systems for everyone.
+  Overcoming entropy through organization.
+  The personal reality of Evan Lee.
 
 minima:
-  skin: solarized-dark
+  skin: dark
+
+  social_links:
+  - platform: github
+    user_url: https://github.com/evnlme
