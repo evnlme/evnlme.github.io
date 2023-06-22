@@ -6,9 +6,12 @@ author:
   name: Evan Lee
   # email: 112362737+evnlme@users.noreply.github.com
 description: >-
-  Sustainable and reproducible systems for everyone.
-  Overcoming entropy through organization.
-  The personal reality of Evan Lee and the random stuff he thinks about.
+  Sustainable and reproducible systems.
+  Evolution without entropy.
+  Function without form.
+  The personal reality of Evan Lee and the random stuff he thinks about
+  such as building utopias, living forever,
+  and engineering himself out of the system.
 
 minima:
   skin: dark
@@ -16,3 +19,6 @@ minima:
   social_links:
   - platform: github
     user_url: https://github.com/evnlme
+
+header_pages:
+- reading-list.md
