@@ -21,4 +21,4 @@ minima:
     user_url: https://github.com/evnlme
 
 header_pages:
-- reading-list.md
+- lists.md

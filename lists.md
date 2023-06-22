@@ -1,4 +1,10 @@
-# Book List
+---
+layout: page
+title: Lists
+permalink: /lists/
+---
+
+## Book List
 
 Books that I am interested in.
 
