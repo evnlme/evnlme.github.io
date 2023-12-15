@@ -18,6 +18,8 @@ List of stuff I have or had an interest in.
 
 ### Books
 
+* _The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home_ by Dan Ariely.
+* _Thinking, Fast and Slow_ by Daniel Kahneman.
 * _Gödel, Escher, Bach_ by Douglas Hofstadter.
 
 ## Stories
@@ -26,8 +28,10 @@ List of stuff I have or had an interest in.
 
 * 〈物語〉シリーズ by 西尾維新\
   〈_Monogatari_〉series by Nisio Isin. Interesting anime adaption.
+* 陰の実力者になりたくて！ by 東西, 逢沢大介\
+  _The Eminence in Shadow_ by Touzai, Aizawa Daisuke
 
-### Manga
+### Graphic novels
 
 * NARUTO―ナルト― by 岸本斉史\
   _Naruto_ by Kishimoto Masashi. Childhood anime. Anime adaption has good fight scenes and sound tracks.
@@ -35,8 +39,10 @@ List of stuff I have or had an interest in.
   _Kaguya-sama: Love Is War_ by Akasaka Aka. Good anime adaptation.
 * モブサイコ100 by ONE\
   _Mob Psycho 100_ by ONE. Good anime adaption.
-* 葬送のフリーレン\
-  _Frieren: Beyond Journey's End_. Fantastic writing. Good anime adaption.
+* 葬送のフリーレン by 山田鐘人, アベツカサ\
+  _Frieren: Beyond Journey's End_ by Yamada Kanehito, Abe Tsukasa. Fantastic writing. Good anime adaption.
+* 악역의 엔딩은 죽음뿐 by 권겨을, 수월\
+  _Villains Are Destined to Die_ by Gwon Gyeoeul, SUOL.
 
 ### Animation
 
