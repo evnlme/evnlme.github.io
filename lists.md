@@ -6,9 +6,9 @@ permalink: /lists/
 
 List of stuff I have or had an interest in.
 
-## Book List
+## Informative writing
 
-### Technical
+### Textbooks
 
 * _Principles of Systems Science_ by George E. Mobus, Micheal C. Kalton.
 * _Systems Science: Theory, Analysis, Modeling, and Design_ by George E. Mobus.
@@ -16,14 +16,45 @@ List of stuff I have or had an interest in.
 * _Energy and the Wealth of Nations_ by Carles A.S. Hall, Kent Klitgaard.
 * _Philosophy and Model Theory_ by Tim Button, Sean Walsh.
 
-### Nonfiction
+### Books
 
 * _Gödel, Escher, Bach_ by Douglas Hofstadter.
 
-### Fiction
+## Stories
+
+### Books
 
 * 〈物語〉シリーズ by 西尾維新\
-  〈_Monogatari_〉series by Nisio Isin
+  〈_Monogatari_〉series by Nisio Isin. Interesting anime adaption.
+
+### Manga
+
+* NARUTO―ナルト― by 岸本斉史\
+  _Naruto_ by Kishimoto Masashi. Childhood anime. Anime adaption has good fight scenes and sound tracks.
+* かぐや様は告らせたい～天才たちの恋愛頭脳戦～ by 赤坂アカ\
+  _Kaguya-sama: Love Is War_ by Akasaka Aka. Good anime adaptation.
+* モブサイコ100 by ONE\
+  _Mob Psycho 100_ by ONE. Good anime adaption.
+* 葬送のフリーレン\
+  _Frieren: Beyond Journey's End_. Fantastic writing. Good anime adaption.
+
+### Animation
+
+* 新世界より (_From the New World_).
+* 日常 (Nichijou - My Ordinary Life).
+* プリンセス・プリンシパル (_Princess Principal_).
+* 徒然チルドレン (Tsuredure Children).
+* かくしごと (Kakushigoto).
+* _Vivy -Fluorite Eye's Song-_.
+* シャドーハウス (_Shadows House_).
+
+## Music
+
+### People
+
+* 梶浦由記 (Kajiura Yuki).
+* Reol.
+
 
 ## Video Channels
 
@@ -71,11 +102,3 @@ List of stuff I have or had an interest in.
 
 * _CityNerd_
 * _Not Just Bikes_
-
-## Animation
-
-* 葬送のフリーレン\
-  _Frieren: Beyoond Journey's End_
-* Vivy -Fluorite Eye's Song-
-* モブサイコ100\
-  Mob Psycho 100
