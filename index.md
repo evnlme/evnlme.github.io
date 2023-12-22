@@ -10,3 +10,5 @@ First and foremost, this is a personal website. I intend for things to be a bit 
 If you have something to say, you can convey it by creating a new GitHub issue [here](https://github.com/evnlme/evnlme.github.io/issues/new).
 
 ## Posts
+
+[A mistake I made copying files in Dockerfile](../content/docker_copy.md)
