@@ -11,4 +11,4 @@ If you have something to say, you can convey it by creating a new GitHub issue [
 
 ## Posts
 
-[A mistake I made copying files in Dockerfile](../content/docker_copy.md)
+[A mistake I made copying files in Dockerfile](./content/docker_copy.md)
