@@ -54,6 +54,7 @@ List of stuff I have or had an interest in.
 * かくしごと (_Kakushigoto_).
 * _Vivy -Fluorite Eye's Song-_.
 * シャドーハウス (_Shadows House_).
+* _Arcane_.
 
 ## Music
 
