@@ -47,10 +47,11 @@ List of stuff I have or had an interest in.
 ### Animation
 
 * 新世界より (_From the New World_).
-* 日常 (Nichijou - My Ordinary Life).
+* 日常 (_Nichijou - My Ordinary Life_).
+* フェイト/ゼロ (_Fate/Zero_)
 * プリンセス・プリンシパル (_Princess Principal_).
-* 徒然チルドレン (Tsuredure Children).
-* かくしごと (Kakushigoto).
+* 徒然チルドレン (_Tsuredure Children_).
+* かくしごと (_Kakushigoto_).
 * _Vivy -Fluorite Eye's Song-_.
 * シャドーハウス (_Shadows House_).
 
@@ -108,3 +109,12 @@ List of stuff I have or had an interest in.
 
 * _CityNerd_
 * _Not Just Bikes_
+
+## Games
+
+* Chess.
+* _Pokémon Emerald_.
+* _Super Smash Bros. Melee_ and _Super Smash Bros. Brawl_.
+* _League of Legends_.
+* _osu!_.
+* _Minecraft_.
