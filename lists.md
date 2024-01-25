@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lists
-permalink: /lists/
+permalink: /lists
 ---
 
 List of stuff I have or had an interest in.
