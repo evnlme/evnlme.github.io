@@ -21,4 +21,7 @@ minima:
 header_pages:
 - lists.md
 
+include:
+- "_sitemap.txt"
+
 google_analytics: G-WK15EWYH7V
