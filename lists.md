@@ -21,6 +21,7 @@ List of stuff I have or had an interest in.
 * _The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home_ by Dan Ariely.
 * _Thinking, Fast and Slow_ by Daniel Kahneman.
 * _Gödel, Escher, Bach_ by Douglas Hofstadter.
+* _Gut Check_ by Steven R. Gundry. If disease starts in the gut, we should take steps to ensure our microbiomes are healthy.
 
 ## Stories
 
@@ -91,6 +92,7 @@ List of stuff I have or had an interest in.
 * _Practical Engineering_
 * _Wendover Productions_
 * _Economics Explained_
+* Bellevue City Counsil.
 
 ### Learning
 
