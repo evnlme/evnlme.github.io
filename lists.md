@@ -22,6 +22,7 @@ List of stuff I have or had an interest in.
 * _Thinking, Fast and Slow_ by Daniel Kahneman.
 * _Gödel, Escher, Bach_ by Douglas Hofstadter.
 * _Gut Check_ by Steven R. Gundry. If disease starts in the gut, we should take steps to ensure our microbiomes are healthy.
+* _The Ape that Understood the Universe: How the Mind and Culture Evolve_ by Steve Stewart-Williams.
 
 ## Stories
 
@@ -47,6 +48,8 @@ List of stuff I have or had an interest in.
 
 ### Animation
 
+* _SpongeBob SquarePants_.
+* _Avatar: The Last Airbender_.
 * 新世界より (_From the New World_).
 * 日常 (_Nichijou - My Ordinary Life_).
 * フェイト/ゼロ (_Fate/Zero_)
@@ -83,21 +86,28 @@ List of stuff I have or had an interest in.
 
 ### Art
 
+* _Proko_.
 * _Marco Bucci_
 * _Alphonso Dunn_
 
-### Science, engineering, logistics, economics
+### Tech, science, engineering, logistics, economics
 
 * _Veritasium_
 * _Practical Engineering_
 * _Wendover Productions_
 * _Economics Explained_
-* Bellevue City Counsil.
+* Bellevue City Council.
+* _Y Combinator_.
 
 ### Learning
 
 * _Justin Sung_
 * _Benjamin Keep_
+
+### Mind
+
+* _Charisma on Command_.
+* _HealthyGamerGG_.
 
 ### Podcasts
 
@@ -112,6 +122,7 @@ List of stuff I have or had an interest in.
 
 * _CityNerd_
 * _Not Just Bikes_
+* _Strong Towns_.
 
 ## Games
 
@@ -120,4 +131,5 @@ List of stuff I have or had an interest in.
 * _Super Smash Bros. Melee_ and _Super Smash Bros. Brawl_.
 * _League of Legends_.
 * _osu!_.
-* _Minecraft_.
+* _Minecraft_. I'm the type of player who enjoys resource abundance in survival mode. I often end up building farms and organizing their products into compact spaces.
+* _Outer Wilds_. Where curiosity is power.
