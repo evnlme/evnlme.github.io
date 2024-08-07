@@ -15,6 +15,7 @@ Please comment in [GitHub issues](https://github.com/evnlme/evnlme.github.io/iss
 
 ## Posts
 
+* [Unelaborated Ideas](./content/ideas.md)
 * [Utopia](./content/utopia.md)
 * [Independence and Collaboration](./content/collab.md)
 * [Hunger: The Value of Food](./content/hunger.md)
