@@ -1,5 +1,8 @@
 https://evnl.me
+https://evnl.me/comment
 https://evnl.me/lists
+https://evnl.me/lists/ideas
 https://evnl.me/tools/docker/copy
 https://evnl.me/hunger
 https://evnl.me/collab
+https://evnl.me/ideas/utopia

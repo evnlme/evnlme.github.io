@@ -96,8 +96,8 @@ List of stuff I have or had an interest in.
 * _Practical Engineering_
 * _Wendover Productions_
 * _Economics Explained_
-* Bellevue City Council.
 * _Y Combinator_.
+* _ThePrimeagen_. Opinionated programming related react content with a bit of playful and questionable humor.
 
 ### Learning
 
@@ -118,11 +118,13 @@ List of stuff I have or had an interest in.
 * _Draftsmen Podcast_ hosted by Stan Prokopenko and Marshall Vandruff.
 * _Tom Bilyeu_ hosts the podcast _Impact Theory_ and learns from various guests.
 
-### Urbanism
+### Urbanism, sustainability, government
 
 * _CityNerd_
 * _Not Just Bikes_
 * _Strong Towns_.
+* Bellevue City Council.
+* _Climate Town_. Funny man exposes policy failures behind the sustainability crisis.
 
 ## Games
 

@@ -6,9 +6,7 @@ author:
   name: Evan Lee
   # email: 112362737+evnlme@users.noreply.github.com
 description: >-
-  Evan's personal site.
-  Conquer the subconscious and learn to perceive the unperceived.
-  Dream of utopias and craft experiences.
+  Evan's attempts at writing things.
 
 minima:
   skin: dark
@@ -19,6 +17,7 @@ minima:
 
 header_pages:
 - lists.md
+- comment.md
 
 include:
 - "_sitemap.txt"
