@@ -23,6 +23,7 @@ List of stuff I have or had an interest in.
 * _Gödel, Escher, Bach_ by Douglas Hofstadter.
 * _Gut Check_ by Steven R. Gundry. If disease starts in the gut, we should take steps to ensure our microbiomes are healthy.
 * _The Ape that Understood the Universe: How the Mind and Culture Evolve_ by Steve Stewart-Williams.
+* _Rapport: The Four Ways to Read People_ by Laurence Alison and Emily Alison. The book plainly states the elements of rapport that other similar books may allude to.
 
 ## Stories
 
