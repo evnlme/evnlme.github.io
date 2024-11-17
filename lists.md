@@ -4,7 +4,7 @@ title: Lists
 permalink: /lists
 ---
 
-List of stuff I have or had an interest in.
+List of stuff I have or had an interest in. (Interest does not mean endorsement.)
 
 ## Informative writing
 
@@ -37,13 +37,15 @@ List of stuff I have or had an interest in.
 ### Graphic novels
 
 * NARUTO―ナルト― by 岸本斉史\
-  _Naruto_ by Kishimoto Masashi. Childhood anime. Anime adaption has good fight scenes and sound tracks.
+  _Naruto_ by Kishimoto Masashi. Childhood anime. Anime adaption has good fight scenes and sound tracks. The arcs that resonated with me the most are "Chuunin Exams: Gaara vs Rock Lee" and "Kakashi Gaiden".
 * かぐや様は告らせたい～天才たちの恋愛頭脳戦～ by 赤坂アカ\
   _Kaguya-sama: Love Is War_ by Akasaka Aka. Good anime adaptation.
 * モブサイコ100 by ONE\
   _Mob Psycho 100_ by ONE. Good anime adaption.
 * 葬送のフリーレン by 山田鐘人, アベツカサ\
   _Frieren: Beyond Journey's End_ by Yamada Kanehito, Abe Tsukasa. Fantastic writing. Good anime adaption.
+* 魔入りました! 入間くん by 西修\
+  _Welcome to Demon School! Iruma-kun_ by Nishi Osamu. A story about a cinnamon roll growing up among demons.
 * 악역의 엔딩은 죽음뿐 by 권겨을, 수월\
   _Villains Are Destined to Die_ by Gwon Gyeoeul, SUOL.
 
@@ -75,12 +77,12 @@ List of stuff I have or had an interest in.
 
 * _Thomas DeLauer_ provides you with the tools you need to optimize your health, fitness, and mental well being. I love it because he is not prescriptive with the advice he gives. In fact, he encourages his viewers to look into the research themselves and makes it easy to do so by linking his sources in the video description.
 * _Bodyweight Warrior_ by Tom Merrick.
-* _Austin Dunham_
+* _Austin Dunham_. I was there for the calisthenics and saw the hard work he put into his fitness and self improvement journey.
 * _FitnessFAQs_
 
 ### Food
 
-* _Joshua Weissman_ is a confident chef with technique and humor.
+* _Joshua Weissman_ is a confident chef with technique and humor. I fondly remember the cabinet era when cooking was the main focus.
 * _Adam Liaw_ brings relaxing home cooked meals.
 * _The Bread Code_
 * _Alex_ cooks. Cooking technique, tools, engineering, and processes to achieve the ultimate flavor and more.
